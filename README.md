@@ -1,6 +1,6 @@
 Scott Fowler
 
-React & Javascript expert
+Javascript, Rust
 
 website: [fwlr.io](https://fwlr.io)
 
