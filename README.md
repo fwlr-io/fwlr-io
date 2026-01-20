@@ -1,7 +1,7 @@
 Scott Fowler
 
-Javascript, Rust
+[pretty good at "playing computer"](https://www.youtube.com/watch?v=PUv66718DII&t=1054s)
 
-website: [fwlr.io](https://fwlr.io)
+Javascript, Rust + others
 
 contact: scott@fwlr.io
